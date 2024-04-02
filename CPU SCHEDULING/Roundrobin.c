@@ -6,6 +6,7 @@ struct process
 
 void main()
 {
+print("Hello");
  int n,i,time_slice,current_ct=0,flag=0,j,a[50],k=0;
  double total_wt=0,total_tat=0;
  printf("Enter the number of processes : ");
